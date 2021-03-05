@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "just java"
+rootProject.name = "Court Counter"
